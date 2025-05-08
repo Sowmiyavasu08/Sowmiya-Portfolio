@@ -1,0 +1,7 @@
+{
+    "title": "Personal Portfolio Website",
+    "description": "A modern, responsive Angular portfolio to showcase skills, achievements, and live projects. Dynamically fetches GitHub projects to keep content up-to-date.",
+    "tech": ["Angular", "TypeScript", "HTML", "CSS", "Netlify"],
+    "link": "https://github.com/Sowmiyavasu08/Sowmiya-Portfolio"
+  }
+  
